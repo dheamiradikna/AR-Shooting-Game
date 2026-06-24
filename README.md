@@ -53,31 +53,6 @@ Fokus utama gameplay: **arahkan reticle ke target, tunggu lock-on, lalu tembak.*
 
 ---
 
-## 🛠️ Teknologi
-
-- **Engine:** Unity
-- **Bahasa:** C#
-- **Mode:** Augmented Reality (overlay kamera real-time)
-
-> Catatan: sesuaikan bagian ini dengan AR framework yang benar-benar dipakai di project (misalnya AR Foundation / ARCore / ARKit) dan versi Unity yang digunakan.
-
----
-
-## 📁 Struktur Folder (contoh)
-
-```
-ARPlaneShooter/
-├── Assets/
-│   ├── Scripts/        # Logic gameplay (reticle, lock-on, shooting, spawn musuh)
-│   ├── Prefabs/         # Prefab pesawat musuh, peluru, kokpit
-│   ├── Scenes/          # Scene utama game
-│   └── Materials/       # Material & texture
-├── README.md
-└── screenshots/         # Screenshot gameplay (dipakai di README ini)
-```
-
----
-
 ## 🚧 Rencana Pengembangan (TODO)
 
 - [ ] Tambah variasi jenis pesawat musuh
@@ -86,7 +61,3 @@ ARPlaneShooter/
 - [ ] Level/wave musuh yang semakin sulit
 
 ---
-
-## 📄 Lisensi
-
-Tambahkan informasi lisensi project di sini (misalnya MIT License) jika diperlukan.
