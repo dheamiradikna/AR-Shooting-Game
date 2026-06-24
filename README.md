@@ -52,12 +52,3 @@ Fokus utama gameplay: **arahkan reticle ke target, tunggu lock-on, lalu tembak.*
 *Tampilan HUD kokpit secara menyeluruh: crosshair, radar, dan tombol BACK.*
 
 ---
-
-## 🚧 Rencana Pengembangan (TODO)
-
-- [ ] Tambah variasi jenis pesawat musuh
-- [ ] Tambah efek suara tembakan & ledakan
-- [ ] Sistem skor & nyawa
-- [ ] Level/wave musuh yang semakin sulit
-
----
